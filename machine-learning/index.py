@@ -1,10 +1,10 @@
 """ 
 
-## **¿Qué es la Inteligencia Artificial?**
+## ¿Qué es la Inteligencia Artificial?
 
 La inteligencia artificial (IA) se refiere a la capacidad inherente de una computadora o un sistema informático para imitar o simular la inteligencia humana. Esta habilidad les permite realizar tareas que, en circunstancias normales, requerirían la inteligencia de un ser humano. Algunos ejemplos de estas tareas son el aprendizaje automático, el razonamiento lógico, la comprensión del lenguaje natural y la percepción visual. En esencia, la inteligencia artificial es la simulación de la inteligencia humana por parte de las máquinas, especialmente los sistemas informáticos.
 
-## **¿Qué es el Machine Learning o Aprendizaje Automático?**
+## ¿Qué es el Machine Learning o Aprendizaje Automático?
 
 El aprendizaje automático, también conocido como machine learning, es una rama especializada de la inteligencia artificial que se centra en el desarrollo y la optimización de algoritmos y modelos. El propósito principal de estos algoritmos y modelos es permitir a las computadoras aprender y mejorar su rendimiento en tareas específicas a través de la interacción con la experiencia y los datos, en lugar de ser programadas explícitamente para realizar dichas tareas. En otras palabras, las máquinas tienen la capacidad de aprender de manera autónoma sin la intervención humana directa. Esto les permite mejorar y refinar sus habilidades a medida que procesan más datos.
 
@@ -338,4 +338,5 @@ Keras: Es una librería de alto nivel para la construcción de redes neuronales 
 Explicar el ejemplo de google Collab:
 
 https://colab.research.google.com/drive/1ehETBOVtCqe7G6HOvm84hfXba8Gd9ILW?usp=sharing#scrollTo=FVDejrBgcokc
+
 """
